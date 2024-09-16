@@ -1,5 +1,7 @@
 Hi! 
+
 I'm Mykhailo Plakhov, a software engineer with extensive experience as a full stack developer in the AdTech field. 
+
 I am passionate about writing clear, maintainable code and creating reusable components (✨), both on the front end and back end.
 <!--
 **michae1/michae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
